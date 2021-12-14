@@ -47,5 +47,5 @@ Now add '/productpage' at the end of url and you should see your application.
 - Delete the ingress-gateway route that shows a red icon and says not accepted
 
   
-##Chck if your new version is working
+## Check if your new version is working
 - in routes of the new project, click on on the link for ingress gatway and then add /productpage at end..if it works your installation was successful.
